@@ -3,8 +3,8 @@ Dupliclean is an application for finding and safely deleting duplicate files on 
 
 Get the latest version on the **[Releases](https://github.com/abulhawa/dupliclean/releases/latest)** page.
 
-- [**Modern UI (Qt)**](https://github.com/abulhawa/dupliclean/releases/latest/download/Dupliclean-Modern-win64.zip)
-- [**Legacy UI (Tk)**](https://github.com/abulhawa/dupliclean/releases/latest/download/Dupliclean-Legacy-win64.zip)
+- [**Modern UI (Qt)**](https://github.com/abulhawa/dupliclean/releases/latest/download/dupliclean-modern-v1.1.0.zip)
+- [**Legacy UI (Tk)**](https://github.com/abulhawa/dupliclean/releases/latest/download/dupliclean-legacy-v1.1.0.zip)
 
 How to run: unzip → double-click the EXE.  
 SmartScreen: **More info → Run anyway** (notarization pending).
